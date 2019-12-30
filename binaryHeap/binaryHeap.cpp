@@ -1,7 +1,3 @@
-//ALGO2 IS1 213A LAB04
-//Monika Rozmarynowska
-//rm44478@zut.edu.pl
-
 #include "DynamicArray.h"
 #include <iostream>
 #include <cmath>
